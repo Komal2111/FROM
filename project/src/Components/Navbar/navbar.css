@@ -1,0 +1,28 @@
+.nav-item{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: inset;
+    background-color: blue;
+}
+
+
+.logo{
+    color: rgb(235, 235, 241);
+}
+
+
+
+
+
+ul li{
+        list-style-type: none;
+        display: inline-block;
+        margin-right: 50px;
+        font-weight: bold;
+        color: white;
+
+}
+
+@media screen {
+    
+}
